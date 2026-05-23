@@ -1,5 +1,5 @@
 ## SUPER EPIC GUESSING GAME!!1!!!!1!! 🥶👌
-yo what chat!! i made this MASSIVE EPIC guessing game in java. it's way better than those boring ones because YOU pick the numbers. want to guess between 1 and 69 billion? go for it (it'll take forever lol).
+yo wassup chat!! i made this MASSIVE EPIC guessing game in java. it's way better than those boring ones because YOU pick the numbers. want to guess between 1 and 69 billion? go for it (it'll take forever lol).
 
 ## 💦 why it's EPIC
 - No Crashes: if you accidentally type a letter instead of a number, it doesn't just explode. i fixed it so it just tells you that you're wrong.
