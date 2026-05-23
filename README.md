@@ -23,5 +23,5 @@ guess the number and have fun and dont rage quit!!
 
 ## 📝 notes
 - i also added a randDouble thing in the code, i'm not really using it yet but it's there if i want to make a "decimal mode" later... which sounds like a nightmare but whatever.
-- haha yes !!!111!!1
+- haha yes 🥶👌
 
