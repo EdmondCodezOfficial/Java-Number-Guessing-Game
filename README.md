@@ -1,18 +1,27 @@
-## Getting Started
+## SUPER EPIC GUESSING GAME!!1!!!!1!! 🥶👌
+yo what chat!! i made this MASSIVE EPIC guessing game in java. it's way better than those boring ones because YOU pick the numbers. want to guess between 1 and 69 billion? go for it (it'll take forever lol).
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 💦 why it's EPIC
+- No Crashes: if you accidentally type a letter instead of a number, it doesn't just explode. i fixed it so it just tells you that you're wrong.
 
-## Folder Structure
+- You Pick the Range: you can make it super easy or literally impossible.
 
-The workspace contains two folders by default, where:
+- Attempts Tracker: it counts your attempts so you can brag to your friends when you get it in like 3 tries.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Give Hints: tell u to "Go Higher!" or "Go Lower!" feedback to guide you.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🧠 how to play
+Open your terminal thingy.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Compile it (type javac App.java).
 
-## Dependency Management
+Run it (java App).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Type in a low number, then a high number.
+
+guess the number and have fun and dont rage quit!!
+
+## 📝 notes
+- i also added a randDouble thing in the code, i'm not really using it yet but it's there if i want to make a "decimal mode" later... which sounds like a nightmare but whatever.
+- haha yes !!!111!!1
+
